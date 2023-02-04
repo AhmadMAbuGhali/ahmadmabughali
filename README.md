@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadmabughali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadmabughali" /> </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadmabughali&theme=default)
+
 <p align="left"> <a href="https://twitter.com/ahmadmabughali" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadmabughali?logo=twitter&style=for-the-badge" alt="ahmadmabughali" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
